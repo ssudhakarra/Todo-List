@@ -1,8 +1,8 @@
 let arr=[
 
-    "i want to eat food @ 10am",
-    "i want to attend class @ 3.00pm",
-    "i want to meet balayya @12am",
+    "i want to eat food @ 10:am",
+    "i want to attend class @ 3:00pm",
+    "i want to write exam @8:00pm",
 
 ];
 
