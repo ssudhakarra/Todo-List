@@ -2,7 +2,7 @@ let arr=[
 
     "i want to eat food @ 10:am",
     "i want to attend class @ 3:00pm",
-    "i want to write exam @8:00pm",
+    "i want to write exam @ 8:00pm",
 
 ];
 
